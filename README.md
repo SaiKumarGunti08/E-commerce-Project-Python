@@ -6,9 +6,9 @@ This project provides a comprehensive analysis of e-commerce data to uncover key
 # Objectives
 Data Cleaning and Preprocessing: Convert raw date fields into usable formats and handle missing or inconsistent entries.
 
-## Sales Analysis:
+### Sales Analysis:
 
-### Monthly sales trends.
+Monthly sales trends.
 Sales performance across different product categories and subcategories.
 
 ### Profitability Analysis:
