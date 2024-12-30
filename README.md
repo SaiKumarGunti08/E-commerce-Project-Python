@@ -6,14 +6,13 @@ This project provides a comprehensive analysis of e-commerce data to uncover key
 # Objectives
 Data Cleaning and Preprocessing: Convert raw date fields into usable formats and handle missing or inconsistent entries.
 
-# Sales Analysis:
+## Sales Analysis:
 
-## Monthly sales trends.
+### Monthly sales trends.
 Sales performance across different product categories and subcategories.
 
-## Profitability Analysis:
-
-### Monthly profit trends.
+### Profitability Analysis:
+Monthly profit trends.
 Key contributors to profitability by category.
 Actionable Insights: Identify patterns and trends that can guide business strategies.
 
@@ -36,6 +35,7 @@ Examination of monthly profits.
 Insights into high and low-profit periods and their potential causes.
 
 ## Results and Insights
+
 ### Sales Trends:
 Sales data indicates seasonal peaks, helping plan inventory and marketing strategies.
 
@@ -58,17 +58,18 @@ Explore Visualizations: Analyze the charts and graphs generated during the analy
 # File Structure
 
 e-commerce_project.ipynb: Main analysis notebook.
-data/: Folder containing raw and processed data files.
-visualizations/: Exported charts and plots.
+Superstore.csv: Folder containing raw and processed data files.
 requirements.txt: Python dependencies.
-Dependencies
+
+# Dependencies
 Python 3.8+
 Pandas
 Plotly
 Matplotlib
 Seaborn
 Jupyter Notebook
-Contributing
+
+# Contributing
 We welcome contributions! Please fork the repository, create a feature branch, and submit a pull request.
 
 
